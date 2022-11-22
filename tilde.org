@@ -1,0 +1,27 @@
+#+title: Jack Baty - Tilde.club
+#+date:
+#+setupfile: ~/org/_SETUP/EXPORT
+#+setupfile: ~/org/_SETUP/DEFAULT
+#+setupfile: ~/org/_SETUP/HTML
+#+startup: overview
+#+export_file_name: ./public_html/index.html
+
+:  _____
+: < Hi! >
+:  -----
+:         \   ^__^
+:          \  (oo)\_______
+:             (__)\       )\/\
+:                 ||--WWW |
+:                 ||     ||
+:
+
+This is a web page on the internet. It is nothing but basic, static HTML. It's the simplest thing that could possibly work and I think it's beautiful.
+
+Thanks to [[https://medium.com/message/tilde-club-i-had-a-couple-drinks-and-woke-up-with-1-000-nerds-a8904f0a2ebf][Paul Ford]] for this whole [[http://tilde.club/][tilde.club]] thing.
+
+* Tuesday, November 22, 2022
+
+I've decided that rather than edit the raw HTML, I'll generate this file using Org-mode. I love plain HTML as much as you do, but I like Org-mode more.
+
+I've [[/archive.html][archived]] the original files.

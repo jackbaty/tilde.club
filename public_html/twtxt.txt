@@ -1,0 +1,44 @@
+2017-10-15T08:45:06-04:00	Hello, this is a test from twtxt
+2017-10-15T08:54:53-04:00	Testing the post_tweet_hook to see that it copies the file to my server
+2017-10-15T08:55:27-04:00	Testing the post_tweet_hook to see that it copies the file to my server
+2017-10-15T09:11:16-04:00	Moving my public twtxt.txt to tilde.club/~jbaty/twtxt.txt because it seems fitting there
+2017-10-15T11:33:13-04:00	I am in a pretty cli/text-only mood lately, as happens maybe once every 6 months or so.
+2017-10-15T16:24:10-04:00	Fun with text tools today https://www.baty.net/2017/some-text-based-things-today/
+2017-10-16T07:17:40-04:00	Good morning, several people!
+2017-10-16T07:59:23-04:00	I don't know what the answer is, but I do know that it doesn't involve being mean on Twitter
+2017-10-16T19:02:09-04:00	It's been a while since I used Mutt but the keystrokes come back quickly and they feel good
+2017-10-19T20:23:11-04:00	I cannot for the life of me decide where my photos should live
+2017-10-21T12:50:16-04:00	tmux just isn't worth the effort
+2017-10-31T09:04:00-04:00	Sometimes I spot my twtxt file and it reminds me that I am not using it, so then I use it
+2017-11-03T12:36:18-04:00	Just discovered Scuttlebut. https://www.scuttlebutt.nz/
+2017-11-23T09:45:44-05:00	Ping!
+2018-02-16T22:12:43-05:00	I nearly forgot about this
+2018-02-16T22:19:21-05:00	Testing from Linux
+2018-03-17T15:06:03-04:00	I notice there is an update to twtxt
+2018-06-10T10:20:54-04:00	Hey, remember using twtxt? I still like the idea.
+2019-05-14T13:49:34-04:00	Testing
+2019-05-14T14:06:49-04:00	I was editing some HTML on tilde.club/~jbaty and saw my twtxt.txt file. Hello
+2019-05-14T14:21:30-04:00	Could anything be simpler? Probably not
+2019-05-14T14:24:18-04:00	Recreated the post_tweet_hook to push things automatically
+2019-05-14T14:40:48-04:00	If you want to remain unheard, use a social network almost no one has heard of
+2019-05-15T08:48:20-04:00	Met Lily, who could become our new dog if things go well
+2019-09-23T14:06:31-04:00	I remember this now
+2019-09-23T14:15:51-04:00	Now alluvasudden I want to post my updates here and to hell with anyone reading them
+2019-09-23T14:17:58-04:00	Does reverse work?
+2019-09-23T14:35:10-04:00	Made a shell alias (fish function, actually) for `twtxt tweet`. It's just `tt` now
+2019-09-23T14:48:18-04:00	Upon reflection, I end up disagreeing with nearly everything that comes out of my mouth
+2019-09-24T16:08:26-04:00	I'm addicted to reaction videos on YouTube
+2019-09-27T10:33:29-04:00	I'd say that 75% of the notes I take are never used again. Why spend so much time on the process of taking notes if they're just going to disappear anyway?
+2019-09-27T10:33:56-04:00	Of course it makes a difference. Just not as big a difference as you think.
+2019-10-04T09:14:45-04:00	I have nothing to say, but by god I'm going to spend a lot of time looking for tools to help me say it
+2020-06-30T07:21:50-04:00	Remember twtxt?
+2020-06-30T14:54:17-04:00	I don't need a new home office chair. I thought I did, but I don't
+2020-07-01T21:29:44-04:00	I really hate Pressfield's War of Art
+2020-07-02T20:19:29-04:00	@<hjertnes https://hjertnes.social/twtxt.txt> I always thought hg was better than git but no one else used it
+2020-07-04T08:13:08-04:00	Most of my posts to twtxt are about using twtxt
+2020-07-07T21:56:23-04:00	Because I need another place to post things, right?
+2020-07-27T16:18:55-04:00	Why did Big Sur break twtxt?
+2020-08-20T07:15:01-04:00	Testing to see if I've fixed my issue with twtxt
+2020-08-20T07:17:40-04:00	OMG I keep breaking things because I move shit around all the time
+2020-10-18T07:56:35-04:00	I keep meaning to post using twtxt but I tend to forget. Not sure why, because it's easy and fun
+2021-01-19T15:36:01-05:00	Well this looks interesting: https://github.com/jointwt/twtxt
