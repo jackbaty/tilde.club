@@ -25,3 +25,5 @@ Thanks to [[https://medium.com/message/tilde-club-i-had-a-couple-drinks-and-woke
 I've decided that rather than edit the raw HTML, I'll generate this file using Org-mode. I love plain HTML as much as you do, but I like Org-mode more.
 
 I've [[./archive.html][archived]] the original files.
+
+There's no reason or need for this. I just like having something here.
