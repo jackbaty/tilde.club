@@ -20,10 +20,12 @@ This is a web page on the internet. It is nothing but basic, static HTML. It's t
 
 Thanks to [[https://medium.com/message/tilde-club-i-had-a-couple-drinks-and-woke-up-with-1-000-nerds-a8904f0a2ebf][Paul Ford]] for this whole [[http://tilde.club/][tilde.club]] thing.
 
+
+
 * Wednesday, December 13, 2023
 ☀️   Clear +25°F
 
-Some days I just want to edit some html.
+Some days I just want to edit some HTML. And yet, this page is built by exporting an Org-mode document because, honestly, editing HTML kind of sucks once the novelty wears off.
 
 
 * Wednesday, February 22, 2023
