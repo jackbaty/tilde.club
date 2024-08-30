@@ -1,6 +1,6 @@
 SERVER_HOST=tilde.club
 SERVER_DIR=/home/jbaty/public_html
-PUBLIC_DIR=/Users/jbaty/sites/tilde.club/public_html/
+PUBLIC_DIR=/Users/jbaty/Sync/sites/tilde.club/public_html/
 TARGET=tilde.club
 STARTTIME:=`date`
 
