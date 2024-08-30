@@ -1,8 +1,8 @@
 #+title: Jack Baty - Tilde.club
 #+date:
-#+setupfile: ~/org/_SETUP/EXPORT
-#+setupfile: ~/org/_SETUP/DEFAULT
-#+setupfile: ~/org/_SETUP/HTML
+#+setupfile: ~/Documents/Notes/org/_SETUP/EXPORT
+#+setupfile: ~/Documents/Notes/org/_SETUP/DEFAULT
+#+setupfile: ~/Documents/Notes/org/_SETUP/HTML
 #+startup: overview
 #+export_file_name: ./public_html/index.html
 
