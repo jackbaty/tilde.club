@@ -20,7 +20,10 @@ This is a web page on the internet. It is nothing but basic, static HTML. It's t
 
 Thanks to [[https://medium.com/message/tilde-club-i-had-a-couple-drinks-and-woke-up-with-1-000-nerds-a8904f0a2ebf][Paul Ford]] for this whole [[http://tilde.club/][tilde.club]] thing.
 
+* Friday, August 30, 2024
+Clear 70.0 | Low 65.3, High 89.4
 
+I was cleaning out some old blog folders and ran into the source for this site. Gosh this was neat when Paul first fired it up. It's actually still kind of neat.
 
 * Wednesday, December 13, 2023
 ☀️   Clear +25°F
