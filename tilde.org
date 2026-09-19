@@ -1,8 +1,5 @@
 #+title: Jack Baty - Tilde.club
-#+date:
-#+setupfile: ~/Documents/Notes/org/_SETUP/EXPORT
-#+setupfile: ~/Documents/Notes/org/_SETUP/DEFAULT
-#+setupfile: ~/Documents/Notes/org/_SETUP/HTML
+#+setupfile: ~/org/_SETUP/HTML
 #+startup: overview
 #+export_file_name: ./public_html/index.html
 
@@ -19,6 +16,10 @@
 This is a web page on the internet. It is nothing but basic, static HTML. It's the simplest thing that could possibly work and I think it's beautiful.
 
 Thanks to [[https://medium.com/message/tilde-club-i-had-a-couple-drinks-and-woke-up-with-1-000-nerds-a8904f0a2ebf][Paul Ford]] for this whole [[http://tilde.club/][tilde.club]] thing.
+
+* Saturday, September 19, 2026
+
+It's been a minute, eh?
 
 * Friday, August 30, 2024
 Clear 70.0 | Low 65.3, High 89.4
